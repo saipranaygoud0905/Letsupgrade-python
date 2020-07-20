@@ -1,0 +1,23 @@
+What is Python? What are the ways to install python in your PC ?
+Answer:Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+We will install free anaconda distribution. This distribution includes python as well as many other useful librarie, including jupyter
+
+
+What are Code Environments? Types ?
+Answer: There are 3 main types of environments
+         1 text editors
+          2 full IDES
+           3 Note book environments
+Text editors:
+*General editors for any text file
+*Work with a variety of file types
+*Can be customized with plugins and add-ons
+Full IDES:
+*Developmenth environment designed specifically for python
+*Larger programs & only community edition are free
+*Designed specifically for python, lots of extra functionality
+Note book environments:
+*Great for learning
+*See input & output next to each other
+*Support in-line markdown notes, visualizations, video & more
+*Special file formats that are not .py
